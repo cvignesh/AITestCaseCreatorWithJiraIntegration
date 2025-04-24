@@ -7,9 +7,9 @@ import re
 
 # --- JIRA CONFIGURATION ---
 JIRA_CONFIG = {
-    'JIRA_URL': "http://localhost:8080",
-    'JIRA_USERNAME': "jiratestuser4",
-    'JIRA_PASSWORD': "Born2win!",
+    'JIRA_URL': "Jira URL",
+    'JIRA_USERNAME': "<Jira User Name>"
+    'JIRA_PASSWORD': "<Jira Password",
     'TEST_ISSUE_TYPE': "Test"
 }
 
