@@ -9,7 +9,7 @@ import re
 JIRA_CONFIG = {
     'JIRA_URL': "Jira URL",
     'JIRA_USERNAME': "<Jira User Name>"
-    'JIRA_PASSWORD': "<Jira Password",
+    'JIRA_PASSWORD': "<Jira Password>",
     'TEST_ISSUE_TYPE': "Test"
 }
 
